@@ -6,7 +6,7 @@
 * PRG ROM /
 * CHR ROM /
 * PRG RAM /
-#VRC2c Ganbare Goemon Gaiden - Kieta Ougon Kiseru (JPN)
-*PRG ROM /
-*CHR ROM /
-*PRG RAM /
+# VRC2c Ganbare Goemon Gaiden - Kieta Ougon Kiseru (JPN)
+* PRG ROM /
+* CHR ROM /
+* PRG RAM /
