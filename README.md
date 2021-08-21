@@ -10,3 +10,10 @@
 * PRG ROM / RC840J0.2P / 256KB
 * CHR ROM / RC840J0.1C / 256KB
 * PRG RAM / SRM2264LC / 8KB
+# FME-7 Honoo no Toukyuuji - Dodge Danpei (JPN)
+* PRG ROM / FC-DOD-PRG / 128K
+* CHR ROM / FC-DOD-CHR / 256K
+# FME-7 Honoo no Toukyuuji - Dodge Danpei 2 (JPN)
+* PRG ROM / DD2-PRG-W36 / 256K
+* CHR ROM / DD2-CHR-W37 / 256K
+* PRG RAM / BR6265-12LL / 8K
