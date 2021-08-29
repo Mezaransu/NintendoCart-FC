@@ -1,3 +1,6 @@
+# VRC7b Tiny Toon Adventures 2 - Montana Land e Youkoso (JPN)
+* PRG ROM / RV051J00P / 128KB
+* CHR ROM / RV051J00C / 128KB
 # VRC6b Mouryou Senki Madara (JPN)
 * PRG ROM / RC846J0.1P / 256KB
 * CHR ROM / RC846J0.1C / 256KB
