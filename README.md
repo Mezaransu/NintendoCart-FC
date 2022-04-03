@@ -13,6 +13,15 @@
 * PRG ROM / RC846J0.1P / 256KB
 * CHR ROM / RC846J0.1C / 256KB
 * PRG RAM / SRM2264LC / 8KB
+# VRC2a Ganbare Pennant Race! (JPN)
+* PRG ROM
+* CHR ROM
+# VRC2b
+* PRG ROM
+* CHR ROM
+# VRC2c
+* PRG ROM
+* CHR ROM
 # VRC2c Ganbare Goemon Gaiden - Kieta Ougon Kiseru (JPN)
 * PRG ROM / RC840J0.2P / 256KB
 * CHR ROM / RC840J0.1C / 256KB
