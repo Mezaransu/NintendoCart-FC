@@ -14,14 +14,15 @@
 * CHR ROM / RC846J0.1C / 256KB
 * PRG RAM / SRM2264LC / 8KB
 # VRC2a Ganbare Pennant Race! (JPN)
-* PRG ROM
-* CHR ROM
-# VRC2b
-* PRG ROM
-* CHR ROM
-# VRC2c
-* PRG ROM
-* CHR ROM
+* PRG ROM / RC834J0P / 128K
+* CHR ROM / RC834J0C / 128K
+# VRC2b Jarinko Chie - Bakudan Musume no Shiawase Sagashi (JPN)
+* PRG ROM / RC828J0P / 128K
+* CHR ROM / RC828J0C / 256K
+# VRC2c Ganbare Goemon Gaiden - Kieta Ougon Kiseru (JPN)
+* PRG ROM / RC840J0.2P / 256K
+* CHR ROM / RC840J0.1C / 256K
+* PRG RAM / SRM2264LC / 8K
 # VRC2c Ganbare Goemon Gaiden - Kieta Ougon Kiseru (JPN)
 * PRG ROM / RC840J0.2P / 256KB
 * CHR ROM / RC840J0.1C / 256KB
