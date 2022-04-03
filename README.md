@@ -12,7 +12,7 @@
 * PRG ROM / RC846J0.1P / 256KB
 * CHR ROM / RC846J0.1C / 256KB
 * PRG RAM / SRM2264LC / 8KB
-# VRC4e Racer Mini Yonku - Japan Cup (JPN)
+# VRC4b Racer Mini Yonku - Japan Cup (JPN)
 * PRG ROM / RC842J1P / 128K
 * CHR ROM / RC842J1C / 128K
 # VRC6b Mouryou Senki Madara (JPN)
