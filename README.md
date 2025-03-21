@@ -29,6 +29,9 @@
 * PRG ROM / DD2-PRG-W36 / 256K
 * CHR ROM / DD2-CHR-W37 / 256K
 * PRG RAM / BR6265-12LL / 8K
+# SS88006 Shin Moero!! Pro Yakyuu (JPN)
+* PRG ROM / D23C2001C / 256K
+* CHR ROM / D23C1010AC / 128K
 ----------------------------------------------------------------------
 # VRC4e Parodius Da! (JPN)
 * PRG ROM / RC849J00P / 128KB
